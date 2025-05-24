@@ -22,5 +22,12 @@ This project explores simulation and tracking of multiple moving targets using B
 git clone https://github.com/yourusername/multi-target-tracking.git
 cd multi-target-tracking
 pip install -r requirements.txt
+```
 
-This project was developed as part of a university assignment (CTU in Prague, 2025). All code is original and intended for educational and demonstrative purposes.
+## 📄 License
+
+This project was developed as part of a university assignment at CTU in Prague (2025).  
+All code is original and intended for educational and demonstrative purposes only.  
+Please do not reuse for academic submission without proper attribution.
+
+© 2025 Lidiia Pylyp. Released under the MIT License.
